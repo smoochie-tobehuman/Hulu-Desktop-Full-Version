@@ -234,4 +234,4 @@ This repository serves as the official landing page for Hulu Desktop. The softwa
 **Get the most recent version of Hulu Desktop today!**
 
 ---
-**Last updated:** 2026-11-05 02:56:32 UTC
+**Last updated:** 2026-11-05 10:03:44 UTC
